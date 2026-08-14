@@ -1,6 +1,6 @@
 # GenAI Model Validation — Australian Bank Complaint Copilot
 
-An interview-ready, reproducible validation project for a fictional Australian bank. The system drafts responses for customer-complaint officers using an approved policy knowledge base. It **does not send messages, make eligibility decisions, calculate redress, or give financial advice**. A trained employee must review every draft.
+A reproducible validation project for a fictional bank. The system drafts responses for customer-complaint officers using an approved policy knowledge base. It **does not send messages, make eligibility decisions, calculate redress, or give financial advice**. A trained employee must review every draft.
 
 The project demonstrates the work of an independent GenAI model validation team: scope challenge, risk tiering, evidence review, benchmark design, adversarial testing, quantitative thresholds, findings, remediation, approval conditions, and post-production monitoring.
 
